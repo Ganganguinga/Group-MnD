@@ -1,9 +1,9 @@
-# \[Group name\]
+# \[Group Marko & David\]
 
 **Group members:**
-- A
-- B
-- C
+- Marko Ivancic
+- David Reynisson
+
 
 This repository contains  
 1. Inaugural project. 
